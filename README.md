@@ -3,7 +3,7 @@ Hotel Trilo Page
 </h1>
 
 <p align="center">Fake hotel page for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://trilo-project-sass.vercel.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
